@@ -9,11 +9,10 @@ To help Steve with analysis of how various stocks performed over the years by ge
 
 ### 2017 Stocks Analysis
 ![alt text](https://github.com/gillranvir/stock-analysis/blob/main/VBA_Challenge_Results_2017.png)
-![alt_text](https://github.com/gillranvir/stock-analysis/blob/main/VBA_Challenge_2017.png)
 
 ### 2018 Stocks Analysis
 ![alt text](https://github.com/gillranvir/stock-analysis/blob/main/VBA_Challenge_Results_2018.png)
-![alt_text](https://github.com/gillranvir/stock-analysis/blob/main/VBA_Challenge_2018.png)
+
 
 ## Summary
 
@@ -40,5 +39,5 @@ Code Refactoring was un-successful and will be attempted again.
 ![alt_text](https://github.com/gillranvir/stock-analysis/blob/main/VBA_Challenge_2017.png)
 ![alt_text](https://github.com/gillranvir/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
-#### Disadvantages of refactoring:
+#### Disadvantages of refactoring
 * The refactoring introduced some complexity because of which it took longer for me to remove the bugs and make the code work.
