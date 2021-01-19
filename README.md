@@ -17,5 +17,11 @@ To help Steve with analysis of how various stocks performed over the years by ge
 
 ## Summary
 
+### General advantages and disadvantages of refactoring
 Code Refactoring was un-successful and will be attempted again.
 
+
+### Advantages / Disadvantages of original and refactored VBA script
+![alt_text](https://github.com/gillranvir/stock-analysis/blob/main/VBA_Challenge_2017_Initial.png)
+
+![alt_text](https://github.com/gillranvir/stock-analysis/blob/main/VBA_Challenge_2018_Initial.png)
